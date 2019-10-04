@@ -1,2 +1,2 @@
 # lstm-rnn
-rnn that learns from the tweets of some accounts on twitter
+LSTM recurrent neural network which generates text based on seed data from twitter.
